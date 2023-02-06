@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\roopnagar.j\eclipse-workspace\maven\springhelloworldjavaconfig1"/>
+			<item value="C:\Users\roopnagar.j\eclipse-workspace\maven\springhelloworldjavaconfig\src\main\webapp\WEB-INF"/>
+			<item value="C:\Users\roopnagar.j\eclipse-workspace\maven\springmvcannotation\src\main\webapp\WEB-INF\dispatcher-servlet.xml"/>
+			<item value="C:\Users\roopnagar.j\eclipse-workspace\maven\injectmap"/>
+			<item value="C:\Users\roopnagar.j\eclipse-workspace\maven\springexamplewithannotation"/>
+			<item value="C:\Users\roopnagar.j\eclipse-workspace\maven\springexample"/>
+			<item value="C:\Users\roopnagar.j\eclipse-workspace\maven\webapp\src\main\java\webapp\servlet\LandingPgServlet.java"/>
+			<item value="C:\Users\roopnagar.j\eclipse-workspace\maven\webappdemo\WebContent"/>
+			<item value="C:\Users\roopnagar.j\eclipse-workspace\maven\hexercise"/>
+			<item value="C:\Users\roopnagar.j\eclipse-workspace\maven\demomaven"/>
+			<item value="C:\Users\roopnagar.j\eclipse-workspace\maven\jpappwa"/>
+			<item value="C:\Users\roopnagar.j\eclipse-workspace\maven\jpapp"/>
+			<item value="C:\Users\roopnagar.j\eclipse-workspace\maven\design"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="com.prodapt"/>
+			<item value="helloworld"/>
+			<item value="javaconfig"/>
+			<item value="springmvanno"/>
+			<item value="springmvcxml"/>
+			<item value="springconfigmvc"/>
+			<item value="springusingautowire"/>
+			<item value="springmap"/>
+			<item value="beanlife"/>
+			<item value="springexamplewithannot"/>
+			<item value="springwithanno1"/>
+			<item value="springwithanno"/>
+			<item value="spring"/>
+			<item value="webapp"/>
+			<item value="ecomap"/>
+		</list>
+		<list key="name">
+			<item value="springhellojavaconfig"/>
+			<item value="springdb"/>
+			<item value="springhelloworldjavaconfig1"/>
+			<item value="springhelloworldjavaconfig"/>
+			<item value="springmvcannotation"/>
+			<item value="springmvcxmlconfiguration"/>
+			<item value="springmvcxmlconfiguration1"/>
+			<item value="SpringAutowire"/>
+			<item value="SpringMap"/>
+			<item value="Loading"/>
+			<item value="SpringScope"/>
+			<item value="beanlc"/>
+			<item value="sxwe"/>
+			<item value="spring1"/>
+			<item value="spring"/>
+		</list>
+		<list key="artifactId">
+			<item value="springhellojavaconfig"/>
+			<item value="springdb"/>
+			<item value="springhelloworldjavaconfig1"/>
+			<item value="springhelloworldjavaconfig"/>
+			<item value="springmvcannotation"/>
+			<item value="springmvcxmlconfiguration"/>
+			<item value="springmvcxmlconfiguration1"/>
+			<item value="springautowire"/>
+			<item value="injectmap"/>
+			<item value="loadingresourcebundleexample"/>
+			<item value="springscope"/>
+			<item value="beanlifecycle"/>
+			<item value="springexamplewithanno1"/>
+			<item value="springwithhanno"/>
+			<item value="springexamplewithannotation"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

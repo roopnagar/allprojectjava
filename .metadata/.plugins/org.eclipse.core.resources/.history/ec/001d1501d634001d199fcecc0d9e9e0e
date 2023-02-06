@@ -1,0 +1,12 @@
+package com.prodapt.registrationLogin.entities;
+
+public class Registration {
+	
+	private Long userId;
+	private String firstName;
+	private String lastName;
+	private String username;
+	private String password;
+	private Integer mobileNumber;
+
+}

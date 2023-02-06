@@ -1,0 +1,5 @@
+package com.prodapt.registrationLogin.services;
+
+public class RegistrationServiceImpl implements RegistrationService {
+
+}
